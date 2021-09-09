@@ -1,0 +1,6 @@
+Assignment 3 involved a Gui for java. I ain't doing that for python. Yet...
+
+The topics this assignment is supposed to teach is:
+    - Gui techniques(Java specific)
+    - Package libraries(We had not had enough experience with files, so they gave us a package to do that automatically)
+    - Exception handling(Link to try except:https://www.w3schools.com/python/python_try_except.asp)

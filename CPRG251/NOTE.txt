@@ -1,0 +1,14 @@
+IMPORTANT
+
+If you are going to run these programs theres a few things you need.
+
+
+1. Python(These should be compatible with most versions of python, but i wrote this on 3.9 so i'd reccomend 3.9 and up)
+2. PIP(Pakage installer for python) Should come with a python installer but check you command line if it's there
+3. Some python packages. I used a few to make life easier and a little better so you need to run these commands on pip
+	- pip install colorama
+	- pip install psycpog2 (This is for use with a PostgreSQL database)
+	#Alternitively for mysql db
+	- pip install mysql-connector-python
+	- pip install python-dotenv (this is for reading enviroment variables from a file rather than the system)
+	#Colorama is needed for almost all files, while the rest are only needed for assignment 6

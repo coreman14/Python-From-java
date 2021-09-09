@@ -1,0 +1,13 @@
+Assignment 4 involved a Gui for java. I ain't doing that for python. Yet...
+
+Assignment 4 included some additional concepts not yet covered or i've done yet such as custom exceptions and boolean expressions
+
+So those are in here
+
+The topics this assignment is supposed to teach is:
+    - File reading(Not really causes it's the same tech as reading the TXT files in ass 1 and 2)
+    - Random access file reading and writing
+        * Reading and writing from a file, but instead of commas it bytes saying what it is
+        * You tell when your done by moving the exact bytes rather than newline
+        * A csv takes up less space then that.
+        * I haven't seen a good use(or ever used it again) since taught, but theres a small showing in RandomAccessFile.py

@@ -1,0 +1,8 @@
+This assignment is the same as assignment 1, but uses a database.
+
+Included are:
+    - A Postgre SQL file
+    - A MySQL file
+    - .env file
+
+File out the env file with correct creds and change the driver if you are not using PostgreSQL
